@@ -4,7 +4,7 @@ QSS 45 Final Project Repository
 
 **Data**
 shohei-ig.csv: raw Instagram data (not included due to file size)
-\n
+
 shohei-ig-cleaned.csv.zip: cleaned Instagram data output
 
 
