@@ -20,7 +20,6 @@ This repository is for a final project a Quantitative Social Science course at D
 - **File:** `shohei-ig-cleaned.csv.zip`
 - **Source:** Meta Content Library and API
 
----
 
 ## Code
 - **File:** 'data_processing.ipynb': data cleaning and processing; joining batching results to main data frame
